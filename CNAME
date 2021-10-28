@@ -1,1 +1,1 @@
-banking.info-huuthang.xyz
+bank.info-huuthang.xyz
